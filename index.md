@@ -1,0 +1,27 @@
+# acuitydown
+
+A pkgdown template for Acuity Analytics R packages.
+
+## Installation
+
+``` r
+
+# install.packages("pak")
+pak::pak("ascentsoftware/acuitydown")
+```
+
+## Usage
+
+Add to `DESCRIPTION` of to-be-documented package:
+
+``` R
+Config/Needs/website: ascentsoftware/acuitydown
+```
+
+And in `_pkgdown.yml`:
+
+``` yml
+template:
+  package: acuitydown
+  bootstrap: 5
+```
