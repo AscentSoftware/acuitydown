@@ -22,6 +22,6 @@ Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 8.0.0
-Config/Needs/website: rmarkdown
-URL: https://www.github.com/ascentsoftware/acuitydown
+Config/Needs/website: rmarkdown, ascentsoftware/acuitydown
+URL: https://www.github.com/ascentsoftware/acuitydown, https://literate-giggle-r38q7y6.pages.github.io/
 BugReports: https://www.github.com/ascentsoftware/acuitydown/issues
