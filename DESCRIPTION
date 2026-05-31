@@ -10,7 +10,7 @@ Authors@R: c(
       comment = c(ORCID = "0000-0001-5226-3441")
     ),
     person(
-      "Ascent Digital Services",
+      "Acuity Analytics",
       role = c("cph", "fnd"),
       email = NULL,
       comment = "https://www.acuityanalytics.com/"
@@ -23,5 +23,5 @@ LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 8.0.0
 Config/Needs/website: rmarkdown, ascentsoftware/acuitydown
-URL: https://www.github.com/ascentsoftware/acuitydown, https://literate-giggle-r38q7y6.pages.github.io/
+URL: https://www.github.com/ascentsoftware/acuitydown, https://ascentsoftware.github.io/acuitydown/
 BugReports: https://www.github.com/ascentsoftware/acuitydown/issues

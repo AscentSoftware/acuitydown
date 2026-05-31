@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# acuitydown
+# acuitydown <a href="https://ascentsoftware.github.io/acuitydown/"><img src="man/figures/logo.svg" align="right" height="139" alt="acuitydown website" /></a>
 
 <!-- badges: start -->
 
