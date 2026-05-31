@@ -1,0 +1,25 @@
+template:
+  bslib:
+    primary: "#00959a"
+    base_font:
+      google:
+        family: "Public Sans"
+        wght: [300, 400, 500, 600, 700]
+        ital: [0, 1]
+    code_font: {google: "Inconsolata"}
+    heading_font: {google: "Public Sans"}
+    font_scale: 1.1
+    fg: "#02373d"
+    bg: "#fcfcfc"
+    pkgdown-nav-height: 76px
+
+navbar:
+  type: light
+  bg: none
+
+footer:
+  structure:
+    left: developed_by
+    right: pkgdown
+  components:
+    pkgdown: ""

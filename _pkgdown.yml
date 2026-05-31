@@ -1,0 +1,5 @@
+url: https://ascentsoftware.github.io/acuitydown/
+
+template:
+  package: acuitydown
+  bootstrap: 5

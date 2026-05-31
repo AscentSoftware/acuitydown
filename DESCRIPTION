@@ -1,0 +1,27 @@
+Package: acuitydown
+Type: Package
+Title: pkgdown Template for Acuity Packages
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Ramiro", "Magno",
+      role = c("aut", "cre"),
+      email = "ramiro.morgado@acuityanalytics.com",
+      comment = c(ORCID = "0000-0001-5226-3441")
+    ),
+    person(
+      "Ascent Digital Services",
+      role = c("cph", "fnd"),
+      email = NULL,
+      comment = "https://www.acuityanalytics.com/"
+    )
+  )
+Description: A pkgdown template for use by Acuity Analytics R packages.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 8.0.0
+Config/Needs/website: rmarkdown
+URL: https://www.github.com/ascentsoftware/acuitydown
+BugReports: https://www.github.com/ascentsoftware/acuitydown/issues
