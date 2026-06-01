@@ -5,7 +5,9 @@
 - **Ramiro Magno**. Author, maintainer.
   [](https://orcid.org/0000-0001-5226-3441)
 
-- **Acuity Analytics**. Copyright holder, funder.  
+- **[![Acuity
+  Analytics](https://raw.githubusercontent.com/AscentSoftware/acuitydown/refs/heads/main/man/figures/Acuity_logo_Colour_RGB.svg)](https://www.acuityanalytics.com)**.
+  Copyright holder, funder.  
   https://www.acuityanalytics.com/
 
 ## Citation
