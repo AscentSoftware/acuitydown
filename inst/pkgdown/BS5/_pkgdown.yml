@@ -23,3 +23,10 @@ footer:
     right: pkgdown
   components:
     pkgdown: ""
+
+
+authors:
+  Acuity Analytics:
+    href: https://www.acuityanalytics.com
+    html: >-
+      <img src='https://raw.githubusercontent.com/AscentSoftware/acuitydown/refs/heads/main/man/figures/Acuity_logo_Colour_RGB.svg' alt='Acuity Analytics' width='72' style="margin-bottom: 3px;" />
